@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Study Vibes — Bihar Board Exam Prep (Class 10 & 12) | Free Download</title>
+<meta name="description" content="Study Vibes — Bihar Board Class 10 & 12 (Science/Arts) exam preparation app. Notes, MCQs, quizzes, mock tests. Hindi + English medium. 100% free. Made by Hasnain.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  :root { --green:#22c55e; --teal:#14b8a6; --amber:#f59e0b; --bg:#07120c; }
+  html { scroll-behavior:smooth; }
+  body { font-family:'Segoe UI','Nirmala UI','Mangal',Arial,sans-serif;
+    background: radial-gradient(ellipse 90% 45% at 50% 0%, #123a24 0%, var(--bg) 60%) fixed, var(--bg);
+    color:#eefbf2; min-height:100vh; overflow-x:hidden; }
+  .stars { position:fixed; inset:0; pointer-events:none; opacity:.4; z-index:0;
+    background-image: radial-gradient(2px 2px at 12% 18%, #fff, transparent),
+                      radial-gradient(2px 2px at 85% 12%, #fff, transparent),
+                      radial-gradient(2px 2px at 70% 40%, #a7f3d0, transparent),
+                      radial-gradient(2px 2px at 25% 65%, #fff, transparent),
+                      radial-gradient(2px 2px at 90% 75%, #fff, transparent); }
+  .wrap { max-width:1080px; margin:0 auto; padding:0 24px; position:relative; z-index:1; }
+  nav { display:flex; align-items:center; justify-content:space-between; padding:22px 0; }
+  .brand { display:flex; align-items:center; gap:12px; font-weight:900; font-size:22px; letter-spacing:2px; }
+  .brand .logo-emo { font-size:38px; filter:drop-shadow(0 0 10px var(--green)); }
+  .btn { display:inline-block; text-decoration:none; color:#04120a; font-weight:800;
+    background:linear-gradient(90deg,var(--green),var(--teal)); padding:14px 34px; border-radius:40px;
+    box-shadow:0 0 28px rgba(34,197,94,.55); transition:transform .15s; border:none; cursor:pointer; font-size:17px; }
+  .btn:hover { transform:translateY(-2px); }
+  .btn.big { font-size:22px; padding:20px 56px; }
+  .ghost { background:transparent; border:2px solid var(--green); box-shadow:none; color:#eefbf2; }
+  .hero { text-align:center; padding:70px 0 40px; }
+  .hero .big-emo { font-size:110px; filter:drop-shadow(0 0 30px var(--green)); }
+  .pill { display:inline-block; margin-top:26px; background:linear-gradient(90deg,var(--amber),#fb923c);
+    padding:10px 30px; border-radius:30px; font-weight:800; letter-spacing:3px; font-size:15px; color:#1a1005; }
+  h1 { font-size:clamp(46px,8vw,96px); font-weight:900; letter-spacing:6px; margin-top:18px; text-shadow:0 0 36px var(--green); }
+  .tagline { color:#bfe9cd; font-size:clamp(18px,3vw,26px); margin-top:8px; }
+  .ver { color:#8fb89c; margin-top:14px; font-size:15px; }
+  .cta-row { margin-top:34px; display:flex; gap:16px; justify-content:center; flex-wrap:wrap; }
+  .stats { display:flex; gap:14px; justify-content:center; flex-wrap:wrap; margin-top:44px; }
+  .stat { background:rgba(34,197,94,.08); border:1px solid rgba(34,197,94,.35); border-radius:16px; padding:16px 26px; text-align:center; min-width:130px; }
+  .stat b { display:block; font-size:30px; color:#86efac; }
+  .stat span { font-size:13px; color:#bfe9cd; }
+  section { padding:64px 0; }
+  h2 { text-align:center; font-size:clamp(28px,5vw,42px); margin-bottom:12px; }
+  .sub { text-align:center; color:#a9d4b6; margin-bottom:44px; font-size:18px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:20px; }
+  .card { background:rgba(34,197,94,.08); border:1px solid rgba(34,197,94,.35); border-radius:20px; padding:28px 22px; text-align:center; transition:transform .15s; }
+  .card:hover { transform:translateY(-4px); border-color:var(--green); }
+  .card .ico { font-size:44px; }
+  .card h3 { margin:14px 0 8px; font-size:20px; }
+  .card p { color:#bfe9cd; font-size:15px; line-height:1.55; }
+  .cls-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:20px; }
+  .cls-card { background:rgba(20,184,166,.08); border:1px solid rgba(20,184,166,.4); border-radius:20px; padding:30px 24px; }
+  .cls-card h3 { font-size:24px; margin-bottom:14px; }
+  .cls-card ul { list-style:none; }
+  .cls-card li { padding:7px 0; color:#c9ecd4; font-size:16px; border-bottom:1px dashed rgba(20,184,166,.25); }
+  .cls-card li:last-child { border:none; }
+  .steps { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:20px; counter-reset:step; }
+  .step { background:rgba(34,197,94,.08); border:1px solid rgba(34,197,94,.35); border-radius:20px; padding:28px 22px; position:relative; }
+  .step::before { counter-increment:step; content:counter(step); position:absolute; top:-18px; left:22px;
+    width:38px; height:38px; border-radius:50%; background:linear-gradient(135deg,var(--green),var(--teal));
+    color:#04120a; font-weight:900; display:flex; align-items:center; justify-content:center; font-size:19px; }
+  .step h3 { margin:8px 0 10px; font-size:19px; }
+  .step p { color:#bfe9cd; font-size:15px; line-height:1.6; }
+  .socials { display:flex; gap:14px; justify-content:center; flex-wrap:wrap; margin-top:10px; }
+  .soc { display:flex; align-items:center; gap:10px; text-decoration:none; color:#eefbf2;
+    background:rgba(34,197,94,.08); border:1px solid rgba(34,197,94,.35); padding:12px 22px; border-radius:40px; font-weight:700; transition:transform .15s; }
+  .soc:hover { transform:translateY(-2px); border-color:var(--green); }
+  footer { text-align:center; padding:44px 0 60px; color:#8fb89c; font-size:15px; }
+  footer b { color:#eefbf2; }
+  .note { text-align:center; color:#8fb89c; font-size:14px; margin-top:18px; }
+</style>
+</head>
+<body>
+<div class="stars"></div>
+<div class="wrap">
+
+  <nav>
+    <div class="brand"><span class="logo-emo">📚</span> STUDY VIBES</div>
+    <a class="btn" href="https://github.com/Ruhvibes/studyvibes/releases/download/v1/StudyVibes-v1.apk" download>⬇ Download APK</a>
+  </nav>
+
+  <div class="hero">
+    <div class="big-emo">📚</div>
+    <div class="pill">100% FREE • NO ADS</div>
+    <h1>STUDY VIBES</h1>
+    <div class="tagline">Bihar Board Class 10 &amp; 12 — Exam Preparation App</div>
+    <div class="ver">v1 &nbsp;•&nbsp; Android &nbsp;•&nbsp; ~30 MB &nbsp;•&nbsp; Offline padhai</div>
+    <div class="cta-row">
+      <a class="btn big" href="https://github.com/Ruhvibes/studyvibes/releases/download/v1/StudyVibes-v1.apk" download>⬇ Download APK</a>
+      <a class="btn ghost" href="#features">Features dekho</a>
+    </div>
+    <div class="stats">
+      <div class="stat"><b>305</b><span>Chapters</span></div>
+      <div class="stat"><b>5,690</b><span>Notes Points</span></div>
+      <div class="stat"><b>4,248</b><span>MCQs</span></div>
+      <div class="stat"><b>45,750</b><span>Important Q&amp;A</span></div>
+      <div class="stat"><b>2</b><span>Medium: हिंदी + English</span></div>
+    </div>
+  </div>
+
+  <section id="features">
+    <h2>✨ FEATURES</h2>
+    <div class="sub">Exam ki poori taiyari — ek hi app me</div>
+    <div class="grid">
+      <div class="card"><div class="ico">📝</div><h3>Chapter Notes</h3><p>Har chapter ke short, exam-oriented notes — Hindi aur English dono medium me.</p></div>
+      <div class="card"><div class="ico">✅</div><h3>Chapter Quiz</h3><p>Har chapter ka quiz — turant result aur explanation ke saath.</p></div>
+      <div class="card"><div class="ico">🎯</div><h3>Mock Test</h3><p>20 questions, 20-minute timer — asli exam jaisa mahaul.</p></div>
+      <div class="card"><div class="ico">❓</div><h3>Important Q&amp;A</h3><p>Board exam me poochhe jaane wale sabse important sawal-jawab.</p></div>
+      <div class="card"><div class="ico">📅</div><h3>30-Day Study Plan</h3><p>Poora syllabus 30 din me — din-wise smart plan.</p></div>
+      <div class="card"><div class="ico">🔍</div><h3>Doubt Search</h3><p>Koi bhi topic search karo — bina internet ke jawab pao.</p></div>
+      <div class="card"><div class="ico">🖼️</div><h3>Colour Diagrams</h3><p>123 professional diagrams — Hindi mode me Hindi labels, English mode me English labels.</p></div>
+      <div class="card"><div class="ico">📸</div><h3>Real Photos</h3><p>55 asli photos — monuments, scientists, writers — proper credits ke saath.</p></div>
+      <div class="card"><div class="ico">🖍️</div><h3>Highlighter</h3><p>Arihant-style highlighter — main points auto-highlight, khud bhi select karke mark karo.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>🎓 CLASSES &amp; SUBJECTS</h2>
+    <div class="sub">BSEB 2025–26 syllabus ke hisaab se</div>
+    <div class="cls-grid">
+      <div class="cls-card">
+        <h3>📘 Class 10</h3>
+        <ul>
+          <li>🔬 विज्ञान (16 अध्याय)</li>
+          <li>📐 गणित (15 अध्याय)</li>
+          <li>🌍 सामाजिक विज्ञान (16 अध्याय)</li>
+          <li>🛟 आपदा प्रबंधन (4 अध्याय)</li>
+          <li>📖 हिंदी — गोधूलि + वर्णिका (29)</li>
+          <li>🔤 English (28)</li>
+          <li>🕉️ संस्कृत — पीयूषम् (14)</li>
+          <li>🌙 उर्दू (18)</li>
+        </ul>
+      </div>
+      <div class="cls-card">
+        <h3>🔬 Class 12 — Science</h3>
+        <ul>
+          <li>⚛️ भौतिकी (14 अध्याय)</li>
+          <li>🧪 रसायन विज्ञान (10 अध्याय)</li>
+          <li>🧬 जीव विज्ञान (13 अध्याय)</li>
+          <li>📐 गणित (13 अध्याय)</li>
+          <li>📖 हिंदी — दिगंत भाग-2 (26)</li>
+          <li>🔤 English — Rainbow Part-II (27)</li>
+        </ul>
+      </div>
+      <div class="cls-card">
+        <h3>🏛️ Class 12 — Arts</h3>
+        <ul>
+          <li>📜 इतिहास (12 अध्याय)</li>
+          <li>🗳️ राजनीति विज्ञान (17 अध्याय)</li>
+          <li>🗺️ भूगोल (19 अध्याय)</li>
+          <li>💰 अर्थशास्त्र (14 अध्याय)</li>
+          <li>📖 हिंदी — दिगंत भाग-2 (26)</li>
+          <li>🔤 English — Rainbow Part-II (27)</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>📲 INSTALL KAISE KAREIN</h2>
+    <div class="sub">Sirf 3 step — 2 minute me taiyaar</div>
+    <div class="steps">
+      <div class="step"><h3>Download karo</h3><p>Upar wala <b>Download APK</b> button dabao. File ~30 MB ki hai.</p></div>
+      <div class="step"><h3>Unknown sources allow karo</h3><p>Install ke waqt phone poochhega — <b>Allow / Install anyway</b> dabao. Ye normal hai (Play Store ke bahar ki app hai).</p></div>
+      <div class="step"><h3>Padhai shuru! 🎉</h3><p>App kholo, apni class chuno — notes, quiz, mock test sab free.</p></div>
+    </div>
+    <p class="note">Purana version installed hai? Naya APK uske upar update ho jayega — data safe rahega.</p>
+  </section>
+
+  <section>
+    <h2>📣 FOLLOW KARO</h2>
+    <div class="sub">Naye updates aur study tips ke liye</div>
+    <div class="socials">
+      <a class="soc" href="https://www.instagram.com/ruhvibes1">📸 @ruhvibes1</a>
+      <a class="soc" href="https://www.instagram.com/hasnain6s">📸 @hasnain6s</a>
+      <a class="soc" href="https://www.instagram.com/hassy_khan6s">📸 @hassy_khan6s</a>
+      <a class="soc" href="https://www.facebook.com/share/1F4JLnKBGz/">📘 Facebook</a>
+      <a class="soc" href="https://youtube.com/@ruhvibes1">▶️ YouTube</a>
+    </div>
+  </section>
+
+  <footer>
+    Made with ❤️ by <b>Hasnain</b><br>
+    <span style="font-size:13px">Study Vibes v1 • Free forever • Koi ad nahi, koi paisa nahi</span>
+  </footer>
+
+</div>
+</body>
+</html>
