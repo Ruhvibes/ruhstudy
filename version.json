@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
+  "versionCode": 33,
   "versionName": "v1",
   "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/RuhStudy.apk",
   "force": false,
-  "notes_hi": "Sab content fix + verified! 520 naye Q&A, galat pairs theek, Daruwalla fact sahi!",
-  "notes_en": "All content fixed + verified! 520 new Q&As, wrong pairs fixed, Daruwalla fact corrected!"
+  "notes_hi": "Full A-to-Z verification! Sab duplicates fixed, sab facts verified. 519 chapters!",
+  "notes_en": "Full A-to-Z verification! All duplicates fixed, all facts verified. 519 chapters!"
 }
