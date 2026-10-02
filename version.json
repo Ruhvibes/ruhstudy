@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "v1",
+  "versionCode": 40,
+  "versionName": "1.0",
   "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/RuhStudy.apk",
   "force": false,
-  "notes_hi": "Version display fix! Ab 'v1' dikhega - tumhara pehla app!",
-  "notes_en": "Version display fix! Now shows 'v1' - your first app!"
+  "notes_hi": "RuhStudy 1.0 - Official Launch! 🎉",
+  "notes_en": "RuhStudy 1.0 - Official Launch! 🎉"
 }
