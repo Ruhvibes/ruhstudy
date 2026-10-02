@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
+  "versionCode": 28,
   "versionName": "v1",
   "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/RuhStudy.apk",
   "force": false,
-  "notes_hi": "AI me voice input ab native — mic dabakar bolo! About me update check button.",
-  "notes_en": "Native voice input in AI (tap mic & speak!). Update check button in About."
+  "notes_hi": "Naya RuhStudy logo! Native voice input, update button, English medium.",
+  "notes_en": "New RuhStudy logo! Native voice input, update button, English medium."
 }
