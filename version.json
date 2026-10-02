@@ -1,8 +1,8 @@
 {
   "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/RuhStudy.apk",
   "force": false,
-  "notes_en": "New: About section with full app details, direct email feedback, app rating. Question Bank 500+ per subject, AI fixes, smart search.",
-  "notes_hi": "Naya: About me puri app details, direct email feedback, app rating. Har subject me 500+ questions, AI fix, smart search.",
-  "versionCode": 24,
+  "notes_en": "New: Update check button in About, English coming soon for Class 10/12 (auto-appears when ready).",
+  "notes_hi": "Naya: About me update check button, 10vi/12vi me English coming soon (taiyaar hote hi aa jayega).",
+  "versionCode": 25,
   "versionName": "v1"
 }
