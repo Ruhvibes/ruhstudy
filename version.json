@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
+  "versionCode": 29,
   "versionName": "v1",
   "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/RuhStudy.apk",
   "force": false,
-  "notes_hi": "Naya RuhStudy logo! Native voice input, update button, English medium.",
-  "notes_en": "New RuhStudy logo! Native voice input, update button, English medium."
+  "notes_hi": "Full colourful theme + Dark Mode! Topbar me 🌙 dabao. Naya RuhStudy logo.",
+  "notes_en": "Full colourful theme + Dark Mode! Tap 🌙 in topbar. New RuhStudy logo."
 }
