@@ -1,7 +1,8 @@
 {
- "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/StudyVibes-v1.apk",
- "force": false,
- "notes_en": "Cleanup: removed ~970 unused duplicate images (app is lighter now). Urdu subject card shows both books: Darakhshan + Roshni.",
- "notes_hi": "Safai: ~970 bekaar duplicate images hatayi gayin (app halki hui). Urdu subject card par dono kitabein: Darakhshan + Roshni.",
- "versionCode": 18
+  "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/StudyVibes-v1.apk",
+  "force": false,
+  "notes_en": "New: Kislay Bhag-3 (31 ch), Urdu Darakhshan full 32 chapters, Hasnain AI doubt solver with voice, Books section, highlighter fix. All 507 chapters complete.",
+  "notes_hi": "Naya: Kislay Bhag-3 (31 ch), Urdu Darakhshan pure 32 chapters, Hasnain AI (voice wala), Kitabein section, highlighter fix. Sabhi 507 chapters complete.",
+  "versionCode": 19,
+  "versionName": "v1"
 }
