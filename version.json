@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
+  "versionCode": 38,
   "versionName": "v1",
   "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/RuhStudy.apk",
   "force": false,
-  "notes_hi": "RuhStudy branding fix! About page me ab RuhStudy v1 dikhega.",
-  "notes_en": "RuhStudy branding fix! About page now shows RuhStudy v1."
+  "notes_hi": "App details updated! Hasnain AI pe focus, latest numbers (74,000+ Q&A)!",
+  "notes_en": "App details updated! Focus on Hasnain AI, latest numbers (74,000+ Q&A)!"
 }
