@@ -1,8 +1,8 @@
 {
   "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/StudyVibes-v1.apk",
   "force": false,
-  "notes_en": "New: Kislay Bhag-3 (31 ch), Urdu Darakhshan full 32 chapters, Hasnain AI doubt solver with voice, Books section, highlighter fix. All 507 chapters complete.",
-  "notes_hi": "Naya: Kislay Bhag-3 (31 ch), Urdu Darakhshan pure 32 chapters, Hasnain AI (voice wala), Kitabein section, highlighter fix. Sabhi 507 chapters complete.",
-  "versionCode": 19,
+  "notes_en": "Major: Question Bank 500+ per subject (Class 10 & 12), AI fixes, smart search, professional language, stream tabs, all audit fixes.",
+  "notes_hi": "Bada update: Har subject me 500+ questions (Class 10 & 12), AI fix, smart search, professional bhasha, stream tabs, sabhi audit fixes.",
+  "versionCode": 21,
   "versionName": "v1"
 }
