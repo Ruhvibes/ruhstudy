@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
+  "versionCode": 37,
   "versionName": "v1",
   "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/RuhStudy.apk",
   "force": false,
-  "notes_hi": "FINAL! 46 weak chapters rebuilt! 534 chapters, 73,989 Q&A, 16,151 MCQ. Sab root se fixed!",
-  "notes_en": "FINAL! 46 weak chapters rebuilt! 534 chapters, 73,989 Q&A, 16,151 MCQ. All fixed from root!"
+  "notes_hi": "RuhStudy branding fix! About page me ab RuhStudy v1 dikhega.",
+  "notes_en": "RuhStudy branding fix! About page now shows RuhStudy v1."
 }
