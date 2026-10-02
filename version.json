@@ -1,8 +1,8 @@
 {
+  "versionCode": 27,
+  "versionName": "v1",
   "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/RuhStudy.apk",
   "force": false,
-  "notes_en": "English medium now live for Class 10 & 12. Update check button in About.",
-  "notes_hi": "10vi/12vi me English medium ab live! About me update check button.",
-  "versionCode": 26,
-  "versionName": "v1"
+  "notes_hi": "AI me voice input ab native — mic dabakar bolo! About me update check button.",
+  "notes_en": "Native voice input in AI (tap mic & speak!). Update check button in About."
 }
