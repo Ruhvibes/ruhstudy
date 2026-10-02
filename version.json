@@ -1,8 +1,8 @@
 {
-  "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/StudyVibes.apk",
+  "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/RuhStudy.apk",
   "force": false,
   "notes_en": "New: About section with full app details, direct email feedback, app rating. Question Bank 500+ per subject, AI fixes, smart search.",
   "notes_hi": "Naya: About me puri app details, direct email feedback, app rating. Har subject me 500+ questions, AI fix, smart search.",
-  "versionCode": 23,
+  "versionCode": 24,
   "versionName": "v1"
 }
