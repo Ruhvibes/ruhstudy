@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
+  "versionCode": 32,
   "versionName": "v1",
   "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/RuhStudy.apk",
   "force": false,
-  "notes_hi": "BSEB books update! 10th English Panorama, 11th me Digant + Rainbow. 74 naye chapters!",
-  "notes_en": "BSEB books update! Class 10 English Panorama, Class 11 Digant + Rainbow. 74 new chapters!"
+  "notes_hi": "Sab content fix + verified! 520 naye Q&A, galat pairs theek, Daruwalla fact sahi!",
+  "notes_en": "All content fixed + verified! 520 new Q&As, wrong pairs fixed, Daruwalla fact corrected!"
 }
