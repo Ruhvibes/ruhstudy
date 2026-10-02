@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
+  "versionCode": 34,
   "versionName": "v1",
   "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/RuhStudy.apk",
   "force": false,
-  "notes_hi": "Full A-to-Z verification! Sab duplicates fixed, sab facts verified. 519 chapters!",
-  "notes_en": "Full A-to-Z verification! All duplicates fixed, all facts verified. 519 chapters!"
+  "notes_hi": "शब्दार्थ added! 239 language chapters me word meanings. Full A-to-Z verified!",
+  "notes_en": "Word meanings added! 239 language chapters covered. Full A-to-Z verified!"
 }
