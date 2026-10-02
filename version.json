@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
+  "versionCode": 36,
   "versionName": "v1",
   "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/RuhStudy.apk",
   "force": false,
-  "notes_hi": "FINAL! 534 chapters, 15 new BSEB chapters, 82 facts fixed, 631 language fixes, 9 bugs fixed. Sab verified!",
-  "notes_en": "FINAL! 534 chapters, 15 new BSEB chapters, 82 facts fixed, 631 language fixes, 9 bugs fixed. All verified!"
+  "notes_hi": "FINAL! 46 weak chapters rebuilt! 534 chapters, 73,989 Q&A, 16,151 MCQ. Sab root se fixed!",
+  "notes_en": "FINAL! 46 weak chapters rebuilt! 534 chapters, 73,989 Q&A, 16,151 MCQ. All fixed from root!"
 }
