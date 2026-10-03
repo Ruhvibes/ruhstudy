@@ -1,8 +1,8 @@
 {
-  "versionCode": 41,
+  "versionCode": 42,
   "versionName": "1.0",
-  "apk": "https://github.com/Ruhvibes/studyvibes/releases/download/v1/RuhStudy.apk",
+  "apk": "https://github.com/Ruhvibes/ruhstudy/releases/download/v1/RuhStudy.apk",
   "force": false,
-  "notes_hi": "RuhStudy 1.0 - har jagah 1.0 branding! 🎉",
-  "notes_en": "RuhStudy 1.0 - 1.0 branding everywhere! 🎉"
+  "notes_hi": "RuhStudy 1.0 - GitHub repo ab 'ruhstudy' naam se! 🎉",
+  "notes_en": "RuhStudy 1.0 - GitHub repo renamed to 'ruhstudy'! 🎉"
 }
