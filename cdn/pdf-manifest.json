@@ -1,0 +1,316 @@
+{
+ "pdfs": [
+  {
+   "id": "c10-science",
+   "title": "कक्षा 10 विज्ञान — संपूर्ण नोट्स",
+   "titleEn": "Class 10 Science — Complete Notes",
+   "cat": "10वीं",
+   "file": "pdfs/c10-science.pdf",
+   "pages": 34,
+   "size": "0.7 MB",
+   "color": "#27ae60"
+  },
+  {
+   "id": "c10-maths",
+   "title": "कक्षा 10 गणित — संपूर्ण नोट्स",
+   "titleEn": "Class 10 Maths — Complete Notes",
+   "cat": "10वीं",
+   "file": "pdfs/c10-maths.pdf",
+   "pages": 32,
+   "size": "0.6 MB",
+   "color": "#3498db"
+  },
+  {
+   "id": "c10-sst",
+   "title": "कक्षा 10 सामाजिक विज्ञान — संपूर्ण नोट्स",
+   "titleEn": "Class 10 Social Science — Complete Notes",
+   "cat": "10वीं",
+   "file": "pdfs/c10-sst.pdf",
+   "pages": 58,
+   "size": "1.1 MB",
+   "color": "#e67e22"
+  },
+  {
+   "id": "c10-hindi",
+   "title": "कक्षा 10 हिंदी — संपूर्ण नोट्स",
+   "titleEn": "Class 10 Hindi — Complete Notes",
+   "cat": "10वीं",
+   "file": "pdfs/c10-hindi.pdf",
+   "pages": 60,
+   "size": "1.1 MB",
+   "color": "#e74c3c"
+  },
+  {
+   "id": "c10-eng",
+   "title": "कक्षा 10 अंग्रेज़ी — संपूर्ण नोट्स",
+   "titleEn": "Class 10 English — Complete Notes",
+   "cat": "10वीं",
+   "file": "pdfs/c10-eng.pdf",
+   "pages": 48,
+   "size": "0.9 MB",
+   "color": "#8e44ad"
+  },
+  {
+   "id": "c10-sans",
+   "title": "कक्षा 10 संस्कृत — संपूर्ण नोट्स",
+   "titleEn": "Class 10 Sanskrit — Complete Notes",
+   "cat": "10वीं",
+   "file": "pdfs/c10-sans.pdf",
+   "pages": 30,
+   "size": "0.6 MB",
+   "color": "#f39c12"
+  },
+  {
+   "id": "c10-urdu",
+   "title": "कक्षा 10 उर्दू — संपूर्ण नोट्स",
+   "titleEn": "Class 10 Urdu — Complete Notes",
+   "cat": "10वीं",
+   "file": "pdfs/c10-urdu.pdf",
+   "pages": 79,
+   "size": "2.0 MB",
+   "color": "#16a085"
+  },
+  {
+   "id": "c11-physics",
+   "title": "कक्षा 11 भौतिकी — संपूर्ण नोट्स",
+   "titleEn": "Class 11 Physics — Complete Notes",
+   "cat": "11वीं",
+   "file": "pdfs/c11-physics.pdf",
+   "pages": 30,
+   "size": "0.6 MB",
+   "color": "#9b59b6"
+  },
+  {
+   "id": "c11-chemistry",
+   "title": "कक्षा 11 रसायन विज्ञान — संपूर्ण नोट्स",
+   "titleEn": "Class 11 Chemistry — Complete Notes",
+   "cat": "11वीं",
+   "file": "pdfs/c11-chemistry.pdf",
+   "pages": 20,
+   "size": "0.4 MB",
+   "color": "#e67e22"
+  },
+  {
+   "id": "c11-biology",
+   "title": "कक्षा 11 जीव विज्ञान — संपूर्ण नोट्स",
+   "titleEn": "Class 11 Biology — Complete Notes",
+   "cat": "11वीं",
+   "file": "pdfs/c11-biology.pdf",
+   "pages": 40,
+   "size": "0.8 MB",
+   "color": "#27ae60"
+  },
+  {
+   "id": "c11-maths",
+   "title": "कक्षा 11 गणित — संपूर्ण नोट्स",
+   "titleEn": "Class 11 Maths — Complete Notes",
+   "cat": "11वीं",
+   "file": "pdfs/c11-maths.pdf",
+   "pages": 30,
+   "size": "0.6 MB",
+   "color": "#3498db"
+  },
+  {
+   "id": "c11-geo",
+   "title": "कक्षा 11 भूगोल — संपूर्ण नोट्स",
+   "titleEn": "Class 11 Geography — Complete Notes",
+   "cat": "11वीं",
+   "file": "pdfs/c11-geo.pdf",
+   "pages": 44,
+   "size": "0.9 MB",
+   "color": "#2ecc71"
+  },
+  {
+   "id": "c11-eco",
+   "title": "कक्षा 11 अर्थशास्त्र — संपूर्ण नोट्स",
+   "titleEn": "Class 11 Economics — Complete Notes",
+   "cat": "11वीं",
+   "file": "pdfs/c11-eco.pdf",
+   "pages": 28,
+   "size": "0.6 MB",
+   "color": "#f1c40f"
+  },
+  {
+   "id": "c11-hist",
+   "title": "कक्षा 11 इतिहास — संपूर्ण नोट्स",
+   "titleEn": "Class 11 History — Complete Notes",
+   "cat": "11वीं",
+   "file": "pdfs/c11-hist.pdf",
+   "pages": 24,
+   "size": "0.5 MB",
+   "color": "#d35400"
+  },
+  {
+   "id": "c11-polsci",
+   "title": "कक्षा 11 राजनीति विज्ञान — संपूर्ण नोट्स",
+   "titleEn": "Class 11 Political Science — Complete Notes",
+   "cat": "11वीं",
+   "file": "pdfs/c11-polsci.pdf",
+   "pages": 40,
+   "size": "0.8 MB",
+   "color": "#c0392b"
+  },
+  {
+   "id": "c11-hindi",
+   "title": "कक्षा 11 हिन्दी — संपूर्ण नोट्स",
+   "titleEn": "Class 11 Hindi — Complete Notes",
+   "cat": "11वीं",
+   "file": "pdfs/c11-hindi.pdf",
+   "pages": 54,
+   "size": "1.0 MB",
+   "color": "#e74c3c"
+  },
+  {
+   "id": "c11-eng",
+   "title": "कक्षा 11 अंग्रेज़ी — संपूर्ण नोट्स",
+   "titleEn": "Class 11 English — Complete Notes",
+   "cat": "11वीं",
+   "file": "pdfs/c11-eng.pdf",
+   "pages": 56,
+   "size": "1.1 MB",
+   "color": "#8e44ad"
+  },
+  {
+   "id": "c12-physics",
+   "title": "कक्षा 12 भौतिकी — संपूर्ण नोट्स",
+   "titleEn": "Class 12 Physics — Complete Notes",
+   "cat": "12वीं",
+   "file": "pdfs/c12-physics.pdf",
+   "pages": 30,
+   "size": "0.7 MB",
+   "color": "#9b59b6"
+  },
+  {
+   "id": "c12-chemistry",
+   "title": "कक्षा 12 रसायन विज्ञान — संपूर्ण नोट्स",
+   "titleEn": "Class 12 Chemistry — Complete Notes",
+   "cat": "12वीं",
+   "file": "pdfs/c12-chemistry.pdf",
+   "pages": 22,
+   "size": "0.5 MB",
+   "color": "#e67e22"
+  },
+  {
+   "id": "c12-biology",
+   "title": "कक्षा 12 जीव विज्ञान — संपूर्ण नोट्स",
+   "titleEn": "Class 12 Biology — Complete Notes",
+   "cat": "12वीं",
+   "file": "pdfs/c12-biology.pdf",
+   "pages": 33,
+   "size": "0.7 MB",
+   "color": "#27ae60"
+  },
+  {
+   "id": "c12-maths",
+   "title": "कक्षा 12 गणित — संपूर्ण नोट्स",
+   "titleEn": "Class 12 Maths — Complete Notes",
+   "cat": "12वीं",
+   "file": "pdfs/c12-maths.pdf",
+   "pages": 28,
+   "size": "0.6 MB",
+   "color": "#3498db"
+  },
+  {
+   "id": "c12-geo",
+   "title": "कक्षा 12 भूगोल — संपूर्ण नोट्स",
+   "titleEn": "Class 12 Geography — Complete Notes",
+   "cat": "12वीं",
+   "file": "pdfs/c12-geo.pdf",
+   "pages": 40,
+   "size": "0.8 MB",
+   "color": "#2ecc71"
+  },
+  {
+   "id": "c12-eco",
+   "title": "कक्षा 12 अर्थशास्त्र — संपूर्ण नोट्स",
+   "titleEn": "Class 12 Economics — Complete Notes",
+   "cat": "12वीं",
+   "file": "pdfs/c12-eco.pdf",
+   "pages": 30,
+   "size": "0.6 MB",
+   "color": "#f1c40f"
+  },
+  {
+   "id": "c12-hist",
+   "title": "कक्षा 12 इतिहास — संपूर्ण नोट्स",
+   "titleEn": "Class 12 History — Complete Notes",
+   "cat": "12वीं",
+   "file": "pdfs/c12-hist.pdf",
+   "pages": 32,
+   "size": "0.6 MB",
+   "color": "#d35400"
+  },
+  {
+   "id": "c12-polsci",
+   "title": "कक्षा 12 राजनीति विज्ञान — संपूर्ण नोट्स",
+   "titleEn": "Class 12 Political Science — Complete Notes",
+   "cat": "12वीं",
+   "file": "pdfs/c12-polsci.pdf",
+   "pages": 38,
+   "size": "0.8 MB",
+   "color": "#c0392b"
+  },
+  {
+   "id": "c12-hindi",
+   "title": "कक्षा 12 हिन्दी — संपूर्ण नोट्स",
+   "titleEn": "Class 12 Hindi — Complete Notes",
+   "cat": "12वीं",
+   "file": "pdfs/c12-hindi.pdf",
+   "pages": 55,
+   "size": "1.1 MB",
+   "color": "#e74c3c"
+  },
+  {
+   "id": "c12-eng",
+   "title": "कक्षा 12 अंग्रेज़ी — संपूर्ण नोट्स",
+   "titleEn": "Class 12 English — Complete Notes",
+   "cat": "12वीं",
+   "file": "pdfs/c12-eng.pdf",
+   "pages": 44,
+   "size": "0.9 MB",
+   "color": "#8e44ad"
+  },
+  {
+   "id": "bseb-pattern",
+   "title": "BSEB परीक्षा पैटर्न गाइड",
+   "titleEn": "BSEB Exam Pattern Guide",
+   "cat": "गाइड",
+   "file": "pdfs/bseb-pattern.pdf",
+   "pages": 7,
+   "size": "0.1 MB",
+   "color": "#e74c3c"
+  },
+  {
+   "id": "rr-bihar-gk",
+   "title": "बिहार GK — संपूर्ण नोट्स",
+   "titleEn": "Bihar GK — Complete Notes",
+   "cat": "GK",
+   "cdn": "https://cdn.jsdelivr.net/gh/Ruhvibes/ruhrank@main/cdn/pdfs/bihar-gk.pdf",
+   "color": "#e74c3c"
+  },
+  {
+   "id": "rr-polity",
+   "title": "भारतीय राजव्यवस्था — नोट्स",
+   "titleEn": "Indian Polity — Notes",
+   "cat": "GK",
+   "cdn": "https://cdn.jsdelivr.net/gh/Ruhvibes/ruhrank@main/cdn/pdfs/indian-polity.pdf",
+   "color": "#3498db"
+  },
+  {
+   "id": "rr-history",
+   "title": "आधुनिक इतिहास — नोट्स",
+   "titleEn": "Modern History — Notes",
+   "cat": "GK",
+   "cdn": "https://cdn.jsdelivr.net/gh/Ruhvibes/ruhrank@main/cdn/pdfs/modern-history.pdf",
+   "color": "#f39c12"
+  },
+  {
+   "id": "rr-science",
+   "title": "सामान्य विज्ञान — नोट्स",
+   "titleEn": "General Science — Notes",
+   "cat": "GK",
+   "cdn": "https://cdn.jsdelivr.net/gh/Ruhvibes/ruhrank@main/cdn/pdfs/general-science.pdf",
+   "color": "#27ae60"
+  }
+ ]
+}
